@@ -4,8 +4,8 @@
 
 ### 🎯 Descripción
 
-> Proyecto de consola en Java que simula el clásico juego **Buscaminas**, donde el jugador debe descubrir todas las casillas sin pisar ninguna mina.
-> Cuenta con persistencia de partidas, manejo de excepciones, pruebas unitarias, y está diseñado siguiendo principios de diseño orientado a objetos.
+Proyecto de consola en Java que simula el clásico juego **Buscaminas**, donde el jugador debe descubrir todas las casillas sin pisar ninguna mina.
+Cuenta con persistencia de partidas, manejo de excepciones, pruebas unitarias, y está diseñado siguiendo principios de diseño orientado a objetos.
 
 ---
 
