@@ -1,10 +1,13 @@
 package com.ups.buscaminas.buscaminas_app;
 
+import com.ups.buscaminas.buscaminas_app.controlador.JuegoController;
+
 /**
  * Hello world!
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        JuegoController controller = new JuegoController();
+        controller.iniciar();
     }
 }
